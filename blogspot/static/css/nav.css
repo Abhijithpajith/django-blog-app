@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+
+    color:yellow;
+    font-size:20px;
+    margin-left:20px;
+    margin-top:px;
+
+}
+
+.navbar{
+background-color: #fff;
+
+
+}
+
+#search{
+width:80%;
+margin-top:15px;
+margin-left:20px;
+}
+footer{
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+footer p:last-child {
+  margin-bottom: 0;
+}
+
+.navbar-brand{
+font-size:300%;
+margin-left:80px;
+}
+.d-flex{
+margin-right:300px;
+  }
+
+
+
+a:link{
+text-decoration:none}
+
